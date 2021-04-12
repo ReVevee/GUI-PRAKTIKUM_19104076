@@ -30,7 +30,10 @@ Python telah terinstall pada laptop/komputer kalian
 
 1. Print Nama
 ![enter image description here](https://i.ibb.co/nMGnnCj/1.png)
+
 2.	Perhitungan Aljabar
 ![enter image description here](https://i.ibb.co/nk6shXG/2.png)
+
+
 3.	Print Hello World
 ![enter image description here](https://i.ibb.co/4g81Ks9/hello-world.png)
