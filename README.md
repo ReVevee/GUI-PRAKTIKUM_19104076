@@ -1,3 +1,1 @@
-# GUI-PRAKTIKUM_19104076
-
-# Reva Rahardian_19104076
+# Praktikum-GUI-Modul-7
